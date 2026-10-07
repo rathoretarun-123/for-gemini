@@ -1,0 +1,2 @@
+# for-gemini
+coding gemini
